@@ -118,9 +118,9 @@ Final Output
 
 .. code:: pycon
 
-    >>> print WILL_ROBINSON
+    >>> print (WILL_ROBINSON)
     Danger Will Robinson!
-    >>> print KLAXON
+    >>> print (KLAXON)
     Danger 
 
 
@@ -145,7 +145,7 @@ Final Output
 
 .. code:: pycon
 
-    >>> print KLAXON
+    >>> print (KLAXON)
     Danger Danger Danger Danger Danger
 
 Task 05
@@ -176,7 +176,7 @@ Final Output
 
 .. code:: pycon
 
-    >>> print TURTLE_POWER
+    >>> print (TURTLE_POWER)
     ['Michaelangelo', 'Leonardo', 'Rafael', 'Donatello',
      'Heroes in a half shell.']
 
@@ -218,7 +218,7 @@ Final Output
 
 .. code:: pycon
 
-    >>> print NERVOUS_AS
+    >>> print (NERVOUS_AS)
     A long-tailed cat in a room full of rockin' chairs.
 
 
@@ -246,7 +246,7 @@ Final Output
 
 .. code:: pycon
 
-    >>> print ENTITLED
+    >>> print (ENTITLED)
     Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb
 
 
@@ -277,11 +277,11 @@ Final Output
 
 .. code:: pycon
 
-    >>> print IS_TRUE
+    >>> print (IS_TRUE)
     True
-    >>> print IS_FALSE
+    >>> print (IS_FALSE)
     False
-    >>> print IS_NONE
+    >>> print (IS_NONE)
     None
     >>> INTEGER_EQUIV
     True
