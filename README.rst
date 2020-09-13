@@ -64,7 +64,7 @@ Final Output (This should be your last line of code and produce the same result 
 
 .. code:: pycon
 
-    >>> print RAVEN
+    >>> print (RAVEN)
     Nevermore!
 
 Task 02
@@ -91,7 +91,7 @@ Final Output
 
 .. code:: pycon
 
-    >>> print WEEKS
+    >>> print (WEEKS)
     52
 
 Task 03
